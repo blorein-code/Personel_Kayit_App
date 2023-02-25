@@ -1,1 +1,1 @@
-# Personel_Kayit_Main
+# Windows Web Form uygulamalarını pratik yapmak için yapılmış bir uygulama. 
